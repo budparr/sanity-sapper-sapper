@@ -1,3 +1,4 @@
+import "./styles/tailwind.css";
 import sirv from 'sirv';
 import polka from 'polka';
 import compression from 'compression';

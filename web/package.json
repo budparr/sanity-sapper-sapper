@@ -5,7 +5,7 @@
   "version": "0.0.3",
   "scripts": {
     "dev": "sapper dev",
-    "build": "sapper export",
+    "build": "NODE_ENV=production sapper export",
     "export": "sapper export",
     "start": "node __sapper__/build",
     "cy:run": "cypress run",
@@ -22,12 +22,31 @@
     "sirv": "^0.4.2"
   },
   "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.3.0",
     "@movingbrands/svelte-portable-text": "0.0.7",
     "@sanity/block-content-to-hyperscript": "^2.0.10",
+    "autoprefixer": "^9.7.3",
+    "css-loader": "^3.3.2",
+    "cssnano": "^4.1.10",
+    "isomorphic-style-loader": "^5.1.0",
+    "mini-css-extract-plugin": "^0.8.0",
+    "node-sass": "^4.13.0",
     "npm-run-all": "^4.1.5",
+    "postcss-import": "^12.0.1",
+    "postcss-load-config": "^2.1.0",
+    "postcss-loader": "^3.0.0",
     "sapper": "^0.27.9",
     "svelte": "^3.16.4",
     "svelte-loader": "^2.13.6",
+    "svelte-preprocess": "^3.2.6",
+    "tailwindcss": "^1.1.4",
     "webpack": "^4.41.2"
-  }
+  },
+  "prettier": {
+    "useTabs": false,
+    "tabWidth": 2
+  },
+  "browserslist": [
+    "defaults"
+  ]
 }

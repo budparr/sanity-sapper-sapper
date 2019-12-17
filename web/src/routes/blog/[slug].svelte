@@ -75,4 +75,7 @@
 
 <div class="content">
   <BlockContent blocks={post.body} {serializers} />
+  HI
+  <BlockContent blocks={post.mainImage} {serializers} />
+  
 </div>
