@@ -1,5 +1,5 @@
 <script context="module">
-  import blocksToHtml from "@sanity/block-content-to-html";
+  //import blocksToHtml from "@sanity/block-content-to-html";
   import client from "../../sanityClient";
   import BlockContent from "@movingbrands/svelte-portable-text";
   import serializers from "../../components/serializers";

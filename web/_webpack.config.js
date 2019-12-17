@@ -29,7 +29,7 @@ const cssConfig = {
     "postcss-loader"
   ]
 };
-console.log('h', cssConfig)
+//console.log('h', cssConfig)
 
 // END CSS/TAILWIND
 
@@ -47,7 +47,7 @@ const svelteClient = {
       preprocess,
       dev,
       hydratable: true,
-      hotReload: true // pending https://github.com/sveltejs/svelte/issues/2377
+      hotReload: false // pending https://github.com/sveltejs/svelte/issues/2377
     }
   }
 };
@@ -77,7 +77,7 @@ module.exports = {
     mode,
     plugins: [
       // pending https://github.com/sveltejs/svelte/issues/2377
-      dev && new webpack.HotModuleReplacementPlugin(),
+      //dev && new webpack.HotModuleReplacementPlugin(),
       new webpack.DefinePlugin({
         "process.browser": true,
         "process.env.NODE_ENV": JSON.stringify(mode)

@@ -1,6 +1,6 @@
 <style>  
   h1 {
-    @apply bg-salmon-300 text-white mb-24 text-5xl;
+    @apply bg-salmon-100 text-white mb-24;
   }
 </style>
 
@@ -9,7 +9,7 @@
   
 </svelte:head>
 <div>
-  <h1>Great success!</h1>
+  <h1 class="text-xs">Great success!</h1>
 </div>
 
 <p>
