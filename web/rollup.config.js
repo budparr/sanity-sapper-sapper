@@ -11,6 +11,8 @@ import marked from "marked";
 import postcss from "rollup-plugin-postcss";
 import json from "@rollup/plugin-json";
 
+
+const svelteConfig = require('./svelte.config.js');
 const mode = process.env.NODE_ENV;
 const dev = mode === "development";
 const legacy = !!process.env.SAPPER_LEGACY_BUILD;
@@ -47,7 +49,7 @@ export default {
       }),
 
       svelte({
-        ...require("./svelte.config.js"),
+        ...svelteConfig,
         dev,
         hydratable: true,
         emitCss: false
@@ -104,7 +106,7 @@ export default {
         extract: path.resolve(__dirname, "./static/global.css")
       }),
       svelte({
-        ...require("./svelte.config.js"),
+        ...svelteConfig,
         generate: "ssr",
         dev
       }),
