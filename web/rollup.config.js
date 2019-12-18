@@ -7,12 +7,19 @@ import { terser } from "rollup-plugin-terser";
 import config from "sapper/config/rollup.js";
 import pkg from "./package.json";
 import path from "path";
-import marked from "marked";
-import postcss from "rollup-plugin-postcss";
+
+// So we can import Sanity's JSON config
 import json from "@rollup/plugin-json";
 
+// So we can use markdown files in our project, too
+import marked from "marked";
 
+// For external PostCSS
+import postcss from "rollup-plugin-postcss";
+
+// For Svelte Preprocess PostCSS in templates
 const svelteConfig = require('./svelte.config.js');
+
 const mode = process.env.NODE_ENV;
 const dev = mode === "development";
 const legacy = !!process.env.SAPPER_LEGACY_BUILD;
@@ -47,7 +54,6 @@ export default {
         "process.browser": true,
         "process.env.NODE_ENV": JSON.stringify(mode)
       }),
-
       svelte({
         ...svelteConfig,
         dev,

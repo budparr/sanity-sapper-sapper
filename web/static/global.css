@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400|Libre+Baskerville:400');
+@import url("https://fonts.googleapis.com/css?family=Libre+Baskerville:400|Libre+Baskerville:400");
 
 /* https://type-scale.com/?size=16&scale=1.333&text=A%20Visual%20Type%20Scale&font=Libre%20Baskerville&fontweight=400&bodyfont=Libre%20Baskerville&bodyfontweight=400&lineheight=1.5&backgroundcolor=white&fontcolor=%23333&preview=false */
 
@@ -10812,12 +10812,12 @@ video {
 }
 
 .bud {
-  color: yellow;
+  background-color: #fed7d7;
 }
 
 body {
   background-color: white;
-  font-family: 'Libre Baskerville', serif;
+  font-family: "Libre Baskerville", serif;
   font-weight: 400;
   line-height: 1.5;
   color: #333;
@@ -10827,9 +10827,13 @@ p {
   margin-bottom: 1.25em;
 }
 
-h1, h2, h3, h4, h5 {
+h1,
+h2,
+h3,
+h4,
+h5 {
   margin: 2.75rem 0 1rem;
-  font-family: 'Libre Baskerville', serif;
+  font-family: "Libre Baskerville", serif;
   font-weight: 400;
   line-height: 1.15;
 }
@@ -10855,7 +10859,8 @@ h5 {
   font-size: 1.333em;
 }
 
-small, .text_small {
+small,
+.text_small {
   font-size: 0.75em;
 }
 
@@ -51546,5 +51551,3 @@ small, .text_small {
     z-index: auto;
   }
 }
-
-

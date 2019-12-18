@@ -1,15 +1,17 @@
-<style>  
+<style type="text/postcss">
   h1 {
-    @apply bg-salmon-100 text-white mb-24;
+    @apply bg-red-300 text-white mb-24 text-sm;
+  }
+  p {
+    @apply bg-black;
   }
 </style>
 
 <svelte:head>
   <title>Sapper project template</title>
-  
 </svelte:head>
 <div>
-  <h1 class="text-xs">Great success!</h1>
+  <h1>Great success!</h1>
 </div>
 
 <p>

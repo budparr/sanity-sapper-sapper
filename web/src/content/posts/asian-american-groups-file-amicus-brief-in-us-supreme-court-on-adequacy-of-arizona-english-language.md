@@ -1,0 +1,30 @@
+---
+title: Asian American Groups File Amicus Brief in U.S. Supreme Court on Adequacy of
+  Arizona English Language Learners Program
+authors: []
+#layout: layouts/post.njk
+date: 2009-03-25T16:57:34+0000
+related_programs: []
+link_to_original: ''
+images: []
+
+---
+### AALDEF highlights need to preserve equal educational opportunity for Asian American and other English Language Learner students
+
+New York, NY — The Asian American Legal Defense and Education Fund (AALDEF), along with 23 youth groups and education advocates representing diverse localities and ethnicities, today filed an amicus brief supporting equal educational opportunity for English Language Learner (ELL) students in _Horne v. Flores_, a case pending before the United States Supreme Court.
+
+AALDEF’s brief rebuts a contention made by the petitioners seeking to overturn a 2000 judgment under the Equal Educational Opportunities Act of 1974 (EEOA), which required the State of Arizona to adequately fund ELL programs in Nogales Unified School District. The state claims that the minimum programmatic requirements of the No Child Left Behind Act (NCLB) guarantees compliance with EEOA. AALDEF’s brief challenges this premise by exposing a myriad of deficiencies in the actual implementation of NCLB.
+
+Khin Mai Aung, AALDEF staff attorney, said: “Asian American ELLs face unique challenges in public schools, and share other challenges with ELLs of diverse backgrounds. NCLB alone is unable to protect the long-standing right of ELLs to enjoy the same educational benefits as mainstream students.”
+
+AALDEF’s brief contends that NCLB fails to protect the civil rights of ELLs, highlighting a rampant lack of ELL assessment and services, inadequate interpretation and translation, insufficient teacher training and certification, and general curricular inequality across the country. Through interviews and anecdotal evidence, several amici document the real world impact of such deficiencies in their local school districts. In addition, AALDEF’s brief explores other shortcomings of NCLB, such as its inability to protect discrete ELL populations with particular needs (including speakers of smaller language groups), its failure to create reliable and consistent benchmarks across different states, and its limited coverage of instructional areas.
+
+AALDEF’s pro bono counsel is Covington & Burling LLP. The 23 Asian American groups signing the amicus brief are based in San Francisco, Oakland, San Jose, Boston, Providence, Philadelphia, New York City, Chicago, Detroit, Atlanta, New Orleans, St. Paul, Seattle, Phoenix, Lowell, and Washington, DC. Several amici are members of the National Asian American Education Advocates (NAAEA) Network, which is housed at AALDEF. A copy of AALDEF’s amicus brief, with a complete listing of the groups, is available for download at [/uploads/pdf/AALDEF_Amicus_Horne.v.Flores_FINAL.pdf](/uploads/pdf/AALDEF_Amicus_Horne.v.Flores_FINAL.pdf)
+
+ALDEF highlights need to preserve equal educational opportunity for Asian American and other English Language Learner students New York, NY — The Asian American Legal Defense and Education Fund (AALDEF), along with 23 youth groups and education advocates representing diverse localities and ethnicities, today filed an amicus brief supporting equal educational opportunity for English Language Learner (ELL) students in Horne v. Flores, a case pending before the United States Supreme Court. AALDEF’s brief rebuts a contention made by the petitioners seeking to overturn a 2000 judgment under the Equal Educational Opportunities Act of 1974 (EEOA), which required the State of Arizona to adequately fund ELL programs in Nogales Unified School District. The state claims that the minimum programmatic requirements of the No Child Left Behind Act (NCLB) guarantees compliance with EEOA. AALDEF’s brief challenges this premise by exposing a myriad of deficiencies in the actual implementation of NCLB. Khin Mai Aung, AALDEF staff attorney, said: “Asian American ELLs face unique challenges in public schools, and share other challenges with ELLs of diverse backgrounds. NCLB alone is unable to protect the long-standing right of ELLs to enjoy the same educational benefits as mainstream students.” AALDEF’s brief contends that NCLB fails to protect the civil rights of ELLs, highlighting a rampant lack of ELL assessment and services, inadequate interpretation and translation, insufficient teacher training and certification, and general curricular inequality across the country. Through interviews and anecdotal evidence, several amici document the real world impact of such deficiencies in their local school districts. In addition, AALDEF’s brief explores other shortcomings of NCLB, such as its inability to protect discrete ELL populations with particular needs (including speakers of smaller language groups), its failure to create reliable and consistent benchmarks across different states, and its limited coverage of instructional areas. AALDEF’s pro bono counsel is Covington & Burling LLP. The 23 Asian American groups signing the amicus brief are based in San Francisco, Oakland, San Jose, Boston, Providence, Philadelphia, New York City, Chicago, Detroit, Atlanta, New Orleans, St. Paul, Seattle, Phoenix, Lowell, and Washington, DC. Several amici are members of the National Asian American Education Advocates (NAAEA) Network, which is housed at AALDEF. A copy of AALDEF’s amicus brief, with a complete listing of the groups, is available for download at [/uploads/pdf/AALDEF_Amicus_Horne.v.Flores_FINAL.pdf](/uploads/pdf/AALDEF_Amicus_Horne.v.Flores_FINAL.pdf). Oral arguments in the U.S. Supreme Court are scheduled for April 20.). Oral arguments in the U.S. Supreme Court are scheduled for April 20.
+
+For more information:  
+Khin Mai Aung  
+Staff Attorney  
+212\.966.5932 ext. 219  
+[kaung@aaldef.org](mailto:kaung@aaldef.org)

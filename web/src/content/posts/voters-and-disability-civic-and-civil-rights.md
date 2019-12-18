@@ -1,0 +1,21 @@
+---
+title: Voters and Disability, Civic and Civil Rights Groups Challenge State’s Vote
+authors: []
+#layout: layouts/post.njk
+date: 2006-05-18T00:00:00+0000
+related_programs: []
+link_to_original: ''
+images: []
+
+---
+#### Plan Completely Fails to Uphold Bold New Statutory Voter Rights to Remedy the Loss of Votes and Other Problems in Past Elections
+
+Today in Albany, a group of voter-eligible citizens—which includes individuals with various disabilities and limited-English-proficient Asian American voters—joined a broad coalition of disability, civic and civil rights organizations in filing a motion to intervene in the lawsuit brought by the Department of Justice against New York State and its election officials. These individuals and organizations seek an injunction requiring the State to comply with the Help America Vote Act (HAVA) and interrelated New York law, to submit an effective compliance plan with the court, and to ensure a legal implementation process that will vindicate the rights of all eligible voters, including those with disabilities and limited English proficiency.
+
+Enacted by Congress in 2002, HAVA is essentially a voters new Bill of Rights and remedy for problems that surfaced in the 2000 presidential elections. Four to six million voters did not have their votes counted across the country in that year; large numbers lost the opportunity to vote due to problems in the registration process; limited-English-proficient voters were often denied the option of a provisional ballot; and 21 million voters with disabilities did not cast a vote. Among its provisions, HAVA required that by 2006 all voters have the right to vote independently and with privacy and that every polling place have improved voting machines that are fully accessible for voters with disabilities and comply with additional protections such as those under the Voting Rights Act. To avoid the loss of the right to vote, the law also mandated voter registrations systems capable of producing accurate voter rolls for Election Day.
+
+In filing suit against New York, the Justice Department chastised the State for its abject failure to comply with these and other HAVA provisions. It went on to add that New York until recently categorically failed to take even the most rudimentary steps toward HAVA compliance.
+
+Nevertheless, the groups charged that the Justice Department has now taken a very limited view of what the State must do to improve its elections, ignoring major elements of the Help America Vote Act and New York law that create new individual voter rights and indeed denying that such rights were enacted in HAVA. They contend that the intervention of voters who have experienced real problems at the polls, including voter-eligible citizens with disabilities and limited English proficiency—and groups that represent them—is essential for vindicating the individual voter rights enacted on their behalf and on behalf of all voters. The citizens and groups further stated that they offer invaluable experience, expertise and insights for helping craft an effective plan that will remedy long-standing election problems in New York and for assisting the court in overseeing the successful implementation of such a plan.
+
+The groups are moving to intervene in a federal court case first filed last March. They are the American Council of the Blind of New York; The New York State Independent Living Council; The Catskill Center for Independence; Chinatown Voter Education Alliance; Young Korean American Service and Education Center; and the New York Public Interest Research Group. The individual plaintiff-interveners include voters with limited physical dexterity, sight impairments, Chinese and Korean voters with limited English proficiency, and a registered voter who experienced difficulties in voting at his polling place due to failings of the voter registration system. The legal organizations providing representation to various plaintiffs in the case are AALDEF, NYLPI, and NVRI, together with private pro-bono counsel Proskauer Rose, LLP.

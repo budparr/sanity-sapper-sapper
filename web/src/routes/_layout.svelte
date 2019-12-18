@@ -11,7 +11,7 @@
 		padding: 2em;
 		margin: 0 auto;
 		box-sizing: border-box;
-		@apply bg-red-300;
+		@apply bg-gray-300;
 	}
 </style>
 
